@@ -1,0 +1,21 @@
+supplier_id,supplier_name,region,lead_time_days
+S001,Petty and Sons,West,4
+S002,Wade-Griffith,North,2
+S003,Lawson Ltd,West,6
+S004,Roberts-Gonzalez,West,7
+S005,May Inc,West,14
+S006,"Ellis, Short and Barnes",North,11
+S007,Sanders-Shea,North,1
+S008,"Carroll, Cook and Hodges",West,12
+S009,Leblanc-Washington,East,13
+S010,Pollard Inc,North,4
+S011,Robles Ltd,South,4
+S012,"Bray, Carter and Ramirez",West,3
+S013,"Williams, Thompson and Rodriguez",West,3
+S014,"Hudson, Morris and Copeland",East,8
+S015,"Turner, Johnson and Davis",South,14
+S016,Edwards-Mitchell,North,8
+S017,"Gill, Ortega and Foster",North,1
+S018,Moore-Orr,North,2
+S019,Austin-Benitez,South,3
+S020,Hayes and Sons,West,8

@@ -1,0 +1,5 @@
+project: supply-chain-lakehouse
+bronze_path: /app/lakehouse/bronze
+silver_path: /app/lakehouse/silver
+gold_path: /app/lakehouse/gold
+kafka_topic: supply-chain-events
